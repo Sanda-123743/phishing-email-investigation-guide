@@ -1,3 +1,9 @@
+[Notes.pdf](https://github.com/user-attachments/files/29317108/Notes.pdf)
+[Manual.pdf](https://github.com/user-attachments/files/29317106/Manual.pdf)
+
+
+
+
 # phishing-email-investigation-guide
 Cybersecurity awareness training project demonstrating a step-by-step approach to identifying and investigating phishing emails through practical examples and security best practices.
 Overview
